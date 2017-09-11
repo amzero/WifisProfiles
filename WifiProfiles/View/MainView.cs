@@ -15,11 +15,41 @@ namespace WifiProfiles.View
         public MainView()
         {
             InitializeComponent();
+        }        
+
+        public Button getBtnRefresh()
+        {
+            return this.btnrefresh;
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        public Button getBtnAdd()
+        {
+            return this.btnadd;
+        }       
+
+        public Button getBtnEdit()
+        {
+            return this.btnEdit;
+        }
+
+        public Button getBtnDelete()
+        {
+            return this.btnDelete;
+        }
+
+        private void MainView_Load(object sender, EventArgs e)
         {
 
+        }
+
+        public ListBox getWifiListBox()
+        {
+            return this.wifiListBox;
+        }
+
+        public ListBox getProfileListBox()
+        {
+            return this.profileListBox;
         }
     }
 }

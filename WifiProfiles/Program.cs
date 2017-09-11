@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WifiProfiles.Collector;
+using WifiProfiles.Controller;
+using WifiProfiles.DAO;
 
 namespace WifiProfiles
 {
@@ -16,8 +19,11 @@ namespace WifiProfiles
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new WifiProfiles.View.MainView());
-            
+            //Application.Run();
+            string filepath = "C:";
+            IDAO dao = new JSONDAO(filepath);
+            ProfileCollectors profiles = new ProfileCollectors(dao);
+            new MainViewController();            
         }
     }
 }
