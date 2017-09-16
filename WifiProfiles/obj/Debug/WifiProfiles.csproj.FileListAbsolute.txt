@@ -3,9 +3,9 @@ C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\bin\Debug\WifiProfiles
 C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\bin\Debug\WifiProfiles.pdb
 C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\obj\Debug\WifiProfiles.csprojResolveAssemblyReference.cache
 C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\obj\Debug\WifiProfiles.Properties.Resources.resources
-C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\obj\Debug\WifiProfiles.View.Profile.resources
 C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\obj\Debug\WifiProfiles.csproj.GenerateResource.Cache
 C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\obj\Debug\WifiProfiles.exe
 C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\obj\Debug\WifiProfiles.pdb
 C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\obj\Debug\WifiProfiles.View.MainView.resources
 C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\bin\Debug\SimpleWifi.dll
+C:\Users\UserPC\Desktop\gabriel\WifiProfiles\WifiProfiles\obj\Debug\WifiProfiles.View.ProfileView.resources
